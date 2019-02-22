@@ -1,4 +1,4 @@
-## This is all the revision of VC Redist.##  
+## This is all the revision of VC Redist.
 Both covers x86 and x64 installation. 
 You have option to install it one by one or by using the batch file.
 
